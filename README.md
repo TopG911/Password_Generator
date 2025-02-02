@@ -6,11 +6,13 @@ Features:
 
 1. User input for password length.
 2. Option to select character sets:
+
   • Digits
   • Letters (uppercase and lowercase)
   • Special characters
-3. Ability to exit the character selection menu.
-4. Generates a random password based on the selected criteria.
+
+4. Ability to exit the character selection menu.
+5. Generates a random password based on the selected criteria.
 
 Usage:
 
