@@ -7,12 +7,12 @@ Features:
 1. User input for password length.
 2. Option to select character sets:
 
-  • Digits
+    • Digits
   
-  • Letters (uppercase and lowercase)
+    • Letters (uppercase and lowercase)
  
-  • Special characters
-
+    • Special characters
+ 
 4. Ability to exit the character selection menu.
 5. Generates a random password based on the selected criteria.
 
