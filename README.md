@@ -8,7 +8,9 @@ Features:
 2. Option to select character sets:
 
   • Digits
+  
   • Letters (uppercase and lowercase)
+ 
   • Special characters
 
 4. Ability to exit the character selection menu.
